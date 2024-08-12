@@ -1,0 +1,3 @@
+([('TextReformatter',
+   '/Users/giladpearl/Desktop/dist/TextReformatter',
+   'EXECUTABLE')],)
